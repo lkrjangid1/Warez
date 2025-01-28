@@ -11468,7 +11468,7 @@
       rel="nofollow">IconFinder</a>, <a href="https://www.flaticon.com/" rel="nofollow">Flaticon</a>, <a
       href="https://www.svgrepo.com/" rel="nofollow">SVG Repo</a>, <a href="https://simpleicons.org/"
       rel="nofollow">SimpleIcons</a>, <a href="https://thenounproject.com/" rel="nofollow">Noun Project</a>, <a
-      href="https://tablericons.com/" rel="nofollow">tablericons</a>, <a
+      href="https://tabler.io/icons/" rel="nofollow">Tabler Icons</a>, <a
       href="https://www.google.com/search?q=site%3Agumroad.com+%240+icons" rel="nofollow">Gumroad</a>, <a
       href="https://www.iconpacks.net/" rel="nofollow">IconPacks</a>, <a href="https://streamlineicons.com/download/"
       rel="nofollow">Streamline Icons</a>, <a href="https://game-icons.net/" rel="nofollow">game-icons</a>, <a
